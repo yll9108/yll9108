@@ -3,13 +3,13 @@
 </div>
 
 <h1 align="center">Hi, I'm Yen 👋</h1>
-<h3 align="center">Previous sales learning to become a fullstack engineer!</h3>
+<h3 align="center"> ⚡ I love to learn new things and explore fun of this world!  ⚡ </h3>
 
 - 🌱 I’m currently learning **React(next)**
 
 - 📫 How to reach me **yenlunliu@gmail.com**
 
-- ⚡ Fun fact **I love to learn new things and explore fun of this world!**
+<!-- ⚡ Fun fact **I love to learn new things and explore fun of this world!** --!>
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
