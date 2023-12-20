@@ -2,7 +2,7 @@
 <img alt="coding" width="500" src="https://i.pinimg.com/474x/4c/aa/a2/4caaa2c448df88090e77d0b6eb43388b.jpg" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Yen</h1>
+<h1 align="center">Hi, I'm Yen 👋</h1>
 <h3 align="center">Previous sales learning to become a fullstack engineer!</h3>
 
 - 🌱 I’m currently learning **React(next)**
