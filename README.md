@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📫 How to reach me **yenlunliu@gmail.com**
-
 <!-- ⚡ Fun fact **I love to learn new things and explore fun of this world!** --!>
 
 <!--<h3 align="left">Connect with me:</h3>
