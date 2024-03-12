@@ -5,7 +5,8 @@
 <h1 align="center">Hi, I'm Yen</h1>
 <h3 align="center"> ⚡ I love to learn new things and explore fun of this world!  ⚡ </h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 Have a look at my portfolio :)
+https://portfolio-bubble-tea.onrender.com/
 
 <!-- ⚡ Fun fact **I love to learn new things and explore fun of this world!** --!>
 
